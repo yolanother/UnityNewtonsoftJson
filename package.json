@@ -1,0 +1,12 @@
+{
+  "name": "com.themessycoder.messyassets",
+  "displayName": "The Messy Coder - Messy Assets",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Packaged versions of MUCC and MUST",
+  "keywords": [
+    "Editor Tools"
+  ],
+  "category": "Scripts",
+  "type": "tool"
+}
