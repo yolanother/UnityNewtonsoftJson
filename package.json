@@ -1,11 +1,11 @@
 {
-  "name": "com.themessycoder.messyassets",
-  "displayName": "The Messy Coder - Messy Assets",
-  "version": "0.0.1",
+  "name": "com.newtonsoft.jsondotnet",
+  "displayName": "Newtonsoft - JsonDotNet",
+  "version": "13.0.1",
   "unity": "2019.4",
-  "description": "Packaged versions of MUCC and MUST",
+  "description": "Json.NET is a popular high-performance JSON framework for .NET www.newtonsoft.com/json",
   "keywords": [
-    "Editor Tools"
+    "JSON"
   ],
   "category": "Scripts",
   "type": "tool"
